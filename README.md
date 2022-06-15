@@ -97,6 +97,8 @@ Once you obtain your activation key from Redpoint Support, access the MDM web UI
       - For production: https://qlm1.net/redpointglobal/qlmlicenseserver/qlmservice.asmx
   - Public Key:       : Same as the activation key
   - Product ID:       : Prod or Trial depending on your activation key
+  
+  NOTE: If you get an error applying the license - try again by inputting the same Activation Key for both the Activation Key and Public Key sections
  ```
 ![6f248329-95d0-4ac6-a99f-efc220e2ecb8](https://user-images.githubusercontent.com/42842390/157773834-f2fe34ed-afb5-4d5d-af22-2cc898158846.png)
 
